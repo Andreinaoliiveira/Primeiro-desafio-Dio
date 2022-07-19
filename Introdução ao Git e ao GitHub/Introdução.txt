@@ -1,5 +1,8 @@
 Resumo:
 
-Nessa primeira parte do conteúdo de Git e Github aprendemos a diferenciar os dois, conhecendo funções como o Sha que gera um conjunto único de 40 caracteres criptografadas, também aprendemos o que são os objetos como, blobs, trees e commits que garantem segurança ao sistema mostrando cada passo que foi usado durante a criação e também a modificação de um código. Para finalizar essa etapa temos que enviar um repositório do Git para o Github, como estou fazendo agora! 
+Nessa primeira parte do conteúdo de Git e Github aprendemos a diferenciar os dois, conhecendo funções como o Sha que gera um conjunto único de 40 caracteres
+criptografadas, também aprendemos o que são os objetos como, blobs, trees e commits que garantem segurança ao sistema mostrando cada passo que foi usado durante a
+criação e também a modificação de um código. Para finalizar essa etapa temos que enviar um repositório do Git para o Github, como estou fazendo agora! 
+
 :) 
 
